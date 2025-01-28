@@ -24,7 +24,7 @@ Desenvolver um microsserviço eficiente, escalável e econômico para validaçã
       - |-- settings.json
   - |-- ValidateCPF
       - |-- function.json
-      - |-- run.csx
+      - |-- fnvalidacpf.csx
   - |-- bin
   - |-- obj
 ```
